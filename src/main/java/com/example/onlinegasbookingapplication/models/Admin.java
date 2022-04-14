@@ -1,7 +1,7 @@
 package com.example.onlinegasbookingapplication.models;
 
 import javax.persistence.*;
-
+// New Entity for Admin Table;
 @Entity
 public class Admin extends AbstractUser{
     @Id
